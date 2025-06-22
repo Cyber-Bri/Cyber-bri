@@ -6,7 +6,7 @@
  -  <a href ="https://github.com/Cyber-Bri/Network-and-Log-Forensics-Identifying-a-Rogue-User/tree/main">Network-and-Log-Forensics-Identifying-a-Rogue-User</a>
    ## 🔐 File Integrity Monitoring with Linux Audit Daemon (HIDS Implementation)
 
--   <a href ="https://github.com/Cyber=Bri/-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-User/tree/main">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
+-   <a href ="https://github.com/Cyber-Bri/-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
 
 A hands-on project showcasing Host-based Intrusion Detection using the `auditd` daemon on Linux. It includes:
 - Custom audit rule configuration
