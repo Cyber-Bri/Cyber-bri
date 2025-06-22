@@ -4,10 +4,20 @@
 <h2>👨‍💻  My Cybersecurity  Projects:</h2>
   
  -  <a href ="https://github.com/Cyber-Bri/Network-and-Log-Forensics-Identifying-a-Rogue-User/tree/main">Network-and-Log-Forensics-Identifying-a-Rogue-User</a>
+   ## 🔐 File Integrity Monitoring with Linux Audit Daemon (HIDS Implementation)
+
+-   <a href ="https://github.com/Cyber=Bri/File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
+
+A hands-on project showcasing Host-based Intrusion Detection using the `auditd` daemon on Linux. It includes:
+- Custom audit rule configuration
+- File integrity tracking using `ausearch`
+- Real-world security logging use case
 
 <h2> 🗞 Certifications 
   <div></div>
   <img src="https://img.shields.io/badge/Cisco%20Certified%20Cyber%20Ops%20Associate-blue?logo=cisco&logoColor=white" />
+  
+
   
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-orange?logo=comptia&logoColor=white" />
