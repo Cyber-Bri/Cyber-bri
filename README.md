@@ -4,7 +4,6 @@
 <h2>👨‍💻  My Cybersecurity  Projects:</h2>
   
  -  <a href ="https://github.com/Cyber-Bri/Network-and-Log-Forensics-Identifying-a-Rogue-User/tree/main">Network-and-Log-Forensics-Identifying-a-Rogue-User</a>
-   ## 🔐 File Integrity Monitoring with Linux Audit Daemon (HIDS Implementation)
 
 -   <a href ="https://github.com/Cyber-Bri/-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
 
