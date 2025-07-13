@@ -11,6 +11,10 @@ A hands-on project showcasing Host-based Intrusion Detection using the `auditd` 
 - Custom audit rule configuration
 - File integrity tracking using `ausearch`
 - Real-world security logging use case
+ ## 🔍 Vulnerability Management Project
+
+- Check out my [Vulnerability Management Project](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/README.md) where I document how I identify, prioritize, and remediate vulnerabilities using real-world tools and frameworks.
+
 
 <h2> 🗞 Certifications 
   <div></div>
