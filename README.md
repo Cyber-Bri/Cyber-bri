@@ -6,14 +6,14 @@
 
 -   <a href ="https://github.com/Cyber-Bri/-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
 
-## KQL Threat Hunt Challenge 
+## KQL Threat Hunt Challenge (Azure Defender for Endpoint)
 - [Azuki-SL — Threat Hunting Investigation](https://github.com/Cyber-Bri/Threat-hunt/blob/main/Azuki%20Import-Export.md)
 
 - [Azuki-SL Part 2 Cargo Hold - Threat Hunt investigation](https://github.com/Cyber-Bri/Threat-hunt/blob/main/Cargo%20Hold.md)
 
-## Tenable Vulnerability Management Projects
+## Tenable Vulnerability Management Projects 
 
-- [Vulnerability Management Program Impementation Project](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/README.md)
+- [Vulnerability Management Program Implementation Project](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/README.md)
   
 - [STIG Implementation and Remediation STIGS Fix-WN11-SO-000220](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/STIGS/Fix-WN11-SO-000220.md)
 - [STIG Implementation and Remediation STIG WN11-CC-000285](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/STIGS/WN11-CC-000285.md)
