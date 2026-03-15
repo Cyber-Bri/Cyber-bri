@@ -1,19 +1,28 @@
-<h1> 🙋🏾‍♂️ Hi, I'm Brian! </h1>
-  
+# 👨🏾‍💻 My Cybersecurity Portfolio 📋
  As a certified cybersecurity professional pursuing a Bachelor’s degree in Cybersecurity and Information Assurance at Western Governors University, I bring a comprehensive skill set to defend, monitor, and enhance organizational security. This portfolio is being created to showcase my academic and professional progress, demonstrate my technical expertise, and provide tangible examples of my contributions to cybersecurity initiatives. My academic progress complements my real-world achievements, certifications, and technical expertise, keeping me aligned with the ever-evolving cybersecurity landscape.
-<h2>👨‍💻  My Cybersecurity  Projects:</h2>
+<h2>  My Cybersecurity  Projects:</h2>
   
  -  <a href ="https://github.com/Cyber-Bri/Network-and-Log-Forensics-Identifying-a-Rogue-User/tree/main">Network-and-Log-Forensics-Identifying-a-Rogue-User</a>
 
 -   <a href ="https://github.com/Cyber-Bri/-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation-">-File-Integrity-Monitoring-with-Linux-Audit-Daemon-HIDS-Implementation- </a>
 
-A hands-on project showcasing Host-based Intrusion Detection using the `auditd` daemon on Linux. It includes:
-- Custom audit rule configuration
-- File integrity tracking using `ausearch`
-- Real-world security logging use case
- ## 🔍 Vulnerability Management Project
+## KQL Threat Hunt Challenge 
+- [Azuki-SL — Threat Hunting Investigation](https://github.com/Cyber-Bri/Threat-hunt/blob/main/Azuki%20Import-Export.md)
 
-- Check out my [Vulnerability Management Project](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/README.md) where I document how I identify, prioritize, and remediate vulnerabilities using real-world tools and frameworks.
+- [Azuki-SL Part 2 Cargo Hold - Threat Hunt investigation](https://github.com/Cyber-Bri/Threat-hunt/blob/main/Cargo%20Hold.md)
+
+## Tenable Vulnerability Management Projects
+
+- [Vulnerability Management Program Impementation Project](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/README.md)
+  
+- [STIG Implementation and Remediation STIGS Fix-WN11-SO-000220](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/STIGS/Fix-WN11-SO-000220.md)
+- [STIG Implementation and Remediation STIG WN11-CC-000285](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/STIGS/WN11-CC-000285.md)
+
+
+## Powershell Automation
+- [Toggle-Ciphersuites](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/automation/Toggle-Ciphersuites)
+
+- [Toggles-Cryptographic-Protocols](https://github.com/Cyber-Bri/Vulnerability-Management-/blob/main/automation/Toggles-Cryptographic-Protocols)
 
 
 <h2> 🗞 Certifications 
@@ -33,21 +42,13 @@ A hands-on project showcasing Host-based Intrusion Detection using the `auditd` 
 
 <h2>📺 [Tutorials] YouTube Videos</h2>
 
-<h2> 🤳 Connect with me:</h2>
+Coming soon! 
 
 
 
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
